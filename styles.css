@@ -1,0 +1,28 @@
+body {
+    background-color:lightsteelblue;
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+img {
+    max-width: 20%;
+    display: block; 
+    margin: 0 auto; 
+    margin-bottom: 20px; 
+}
+
+#groter {
+    max-width: 50%;
+}
+
+.lgs {
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: center; 
+}
